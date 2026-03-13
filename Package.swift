@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "P42-colormanager",
+    name: "P42ColorManager",
     platforms: [
         .iOS(.v17),
         .macOS(.v13)
